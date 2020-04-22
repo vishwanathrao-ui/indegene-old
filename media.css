@@ -1,0 +1,96 @@
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+} 
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+
+.header-color-logo.brand-logo img {
+    width: 100%;
+}
+
+
+.header-social-icon {
+    text-align: center;
+    padding: 1px 1px;
+}
+
+.header-social-icon i {
+    width: 35px;
+    height: 35px;
+    padding: 9px;
+}
+
+.service-media-body.media {
+    padding: 5px;
+}
+
+.media-body.media-service-right h4 {
+    text-align: left;
+}
+
+.media-image {
+    width: 80px;
+    height: 80px;
+    padding: 10px;
+}
+
+
+.media-body.media-service-left {
+    padding-left: 2px;
+}
+
+h4.media-heading {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.service-media-body.media {
+    margin-bottom: 20px;
+}
+.event-media-body .media-left {
+    display: block;
+}
+
+.media .media-body.media-service-left {
+    overflow: visible;
+    padding: 15px 0px;
+}
+
+h4.media-heading {
+    font-size: 18px;
+}
+
+
+.card-body {
+    margin-bottom: 30px;
+}
+
+.footer-link ul {
+    display: unset;
+}
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+
+
+
+}
+
+
+
+
+
